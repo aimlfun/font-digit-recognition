@@ -1,5 +1,5 @@
 # font-digit-recognition
-From blog posting on https://aimlfun.com/i-recognise-that-letter/
+From blog posting: https://aimlfun.com/i-recognise-that-letter/
 
 This application requires .net6 and Visual Studio 2022 (Community works).
 
@@ -14,4 +14,4 @@ For a pre-trained network, copy /Model/digits.ai to c:\temp.
 
 Please note: it was trained on a specific list of 231 fonts. You may have fonts I do not.
 
-If you don't do that, it will take more than an hour to train. If unsuccessful, it maybe a font you have isn't containing regular digits so don't forget to exclude it in the code.
+If you don't do that, it will take more than an hour to train. If unsuccessful, it may be a font that you have isn't containing regular digits so don't forget to exclude it in the code.
